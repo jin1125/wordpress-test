@@ -9,3 +9,20 @@ Version: 1.0
 h1 {
   color: red;
 }
+
+h2 {
+  color: green;
+}
+
+p {
+  color: blue;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.container {
+  background: #eee;
+  overflow: hidden;
+  width: 100%;
+}
