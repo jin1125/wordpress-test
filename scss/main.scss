@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: blue;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.container {
+  background: #eee;
+  overflow: hidden;
+  width: 100%;
+
+  h2 {
+    color: green;
+  }
+}

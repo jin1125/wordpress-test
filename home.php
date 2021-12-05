@@ -24,6 +24,7 @@ $the_query = new WP_Query($args);
       <br>
     <?php endwhile; ?>
 </div>
+<h2>----------</h2>
 <?php wp_reset_postdata(); ?>
 <?php else : ?>
 <?php endif; ?>
