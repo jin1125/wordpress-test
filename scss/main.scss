@@ -32,3 +32,21 @@ p {
     transform: translateY(-50%) translateX(-50%);
   }
 }
+
+.image-area {
+  position: relative;
+  height: 750px;
+}
+
+.image {
+  width: 80vw;
+}
+
+.text {
+  position: absolute;
+  background-color: tan;
+  padding-top: 150px;
+  margin-left: 50px;
+  top:180px;
+  z-index: -1;
+}
