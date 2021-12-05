@@ -1,11 +1,11 @@
 <?php get_header(); ?>
 <!-- ------------------------------ -->
 <header>
-  <div>
+  <div class="video-area">
     <video webkit-playsinline playsinline muted autoplay loop>
       <source src='<?php echo get_template_directory_uri(); ?>/video/movie.mp4' type='video/mp4'>
     </video>
-    <div>住み替えを、<br>もっと気軽に。<br>もっと楽しく。</div>
+    <h1>住み替えを、<br>もっと気軽に。<br>もっと楽しく。</h1>
   </div>
 </header>
 <!-- ------------------------------ -->
