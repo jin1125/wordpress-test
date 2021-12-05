@@ -1,6 +1,23 @@
 <?php get_header(); ?>
 <!-- ------------------------------ -->
 <header>
+
+  <div class="heading">
+    <div>logo</div>
+    <button type="button" class="menu-btn">
+      <i class="fas fa-bars"></i>
+    </button>
+  </div>
+
+  <div class="menu">
+    <div class="menu__item">TOP</div>
+    <div class="menu__item">ABOUT</div>
+    <div class="menu__item">BLOG</div>
+    <div class="menu__item">CONTACT</div>
+  </div>
+
+
+  <!-- ------------------------------ -->
   <div class="video-area">
     <video webkit-playsinline playsinline muted autoplay loop>
       <source src='<?php echo get_template_directory_uri(); ?>/video/movie.mp4' type='video/mp4'>
