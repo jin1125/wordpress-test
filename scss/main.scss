@@ -1,3 +1,5 @@
+
+
 h1 {
   color: red;
 }
@@ -17,4 +19,29 @@ p {
   h2 {
     color: green;
   }
+}
+
+
+.area {
+  position: relative;
+  width: 450px;
+  /*牧場ごと移動したい場合は位置を指定します*/
+  left: 30px;
+  /* 以下の設定は分かりやすいようにするためで必須ではありません。 */
+  border: 1px solid black;
+  height: 500px;
+}
+
+.sheep {
+   position: absolute;
+   /* 以下の値をいろいろ変更し羊の位置を変えます（全部指定する必要なし） 
+   top: ;
+   bottom: ;
+   left: ;
+   right: ;
+   */
+   top: 50%;
+   left: 20%;
+  /* 以下の設定は分かりやすいようにするためで必須ではありません。 */
+  border: 1px solid red;
 }
