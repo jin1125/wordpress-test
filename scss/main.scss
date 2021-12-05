@@ -2,10 +2,6 @@ h1 {
   color: red;
 }
 
-p {
-  color: blue;
-}
-
 .container {
   background: #eee;
   overflow: hidden;
@@ -13,6 +9,13 @@ p {
 
   h2 {
     color: green;
+  }
+
+  p {
+    color: blue;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }
 
@@ -47,6 +50,6 @@ p {
   background-color: tan;
   padding-top: 150px;
   margin-left: 50px;
-  top:180px;
+  top: 180px;
   z-index: -1;
 }
