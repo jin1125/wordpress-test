@@ -76,17 +76,21 @@
   <!-- ------------------------------ -->
   <section class="center">
     <div class="bg">
-    <div class="sample">
-    <ul>
-      <li>あいうえおかきくけこ</li>
-      <li>さしすせそ</li>
-      <li>たちつてとなにぬねのはひふへほ</li>
-    </ul>
-  </div>
+      <div class="sample">
+        <ul>
+          <li>あいうえおかきくけこ</li>
+          <li>さしすせそ</li>
+          <li>たちつてとなにぬねのはひふへほ</li>
+        </ul>
       </div>
+    </div>
     </div>
   </section>
 
+
+  <div class="manbow">
+    <a href="...">マンボウ</a>
+  </div>
 
 
   <!-- ------------------------------ -->
