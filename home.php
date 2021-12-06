@@ -74,9 +74,21 @@
   <h2> ---------- </h2>
   </section>
   <!-- ------------------------------ -->
-  <section>
-
+  <section class="center">
+    <div class="bg">
+    <div class="sample">
+    <ul>
+      <li>あいうえおかきくけこ</li>
+      <li>さしすせそ</li>
+      <li>たちつてとなにぬねのはひふへほ</li>
+    </ul>
+  </div>
+      </div>
+    </div>
   </section>
+
+
+
   <!-- ------------------------------ -->
 </main>
 <?php get_footer(); ?>
