@@ -2,6 +2,10 @@
 <!-- ------------------------------ -->
 <header>
 
+  <div id="fixed">
+    menu menu menu menu menu menu
+  </div>
+
   <div class="heading">
     <div>logo</div>
     <button type="button" class="menu-btn">
