@@ -103,7 +103,6 @@
     <a href="...">マンボウ</a>
   </div>
 
-  <?php echo do_shortcode('[mwform_formkey key="26"]'); ?>
 
 
   <!-- ------------------------------ -->
